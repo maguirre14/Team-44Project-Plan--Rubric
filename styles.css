@@ -1,0 +1,62 @@
+.header{
+     background-color: #f1f1f1;
+     padding: 2px;
+     text-align: center;
+     border:6px blue solid;
+     text-align: center;
+     font-family: 'Libre Baskerville', serif;
+     color: black;
+    font-size:18px;
+    padding:2px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background: #f1f1f1;
+    border:6px lightblue solid;
+}
+
+.button{
+    border: 3px solid blue;
+    background-color: lightblue;
+    padding: 6px;
+    font-family: 'Libre Baskerville', serif;
+    color: #0a60a6;
+}
+
+
+body{
+    background: url("https://cdn.vox-cdn.com/thumbor/b3EZjYPySXRwcQQJvUKB8peg2Gc=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19912680/Astronomical_Art_Landscape_2.jpg");
+}
+
+.life{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+.Travis{
+    width: 500px;
+    border: 15px groove white;
+}
+
+h3{
+    font-size: 30px;
+    font-family: 'Frank Ruhl Libre', serif;
+    color: white;
+    text-align:center;
+}
+
+li{
+    color: white;
+    font-size:22px;
+    text-align:center;
+}
+
+.button:hover{
+    background-color:blue;
+}
+
+
